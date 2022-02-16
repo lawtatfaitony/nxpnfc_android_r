@@ -1,5 +1,6 @@
 # nxpnfc_android_r
 
+### CODE 來源官方 (FROM Offical) : https://github.com/NXPNFCLinux/nxpnfc_android_r
 
 # 安卓NFC 恩智浦 [相關產品介紹] (https://www.nxp.com.cn/products/rfid-nfc/nfc-hf/nfc-readers/development-kits-for-pn7150-plugn-play-nfc-controller:OM5578)
 
